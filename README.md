@@ -8,6 +8,7 @@ This analysis was conducted for a business investment proposal for a bike-sharin
 The data for this project consists of 2,344,224 rides from August of 2019.  Of these rides, the vast majority are annual subscribers, and male.
 
 [link to customer type] (https://public.tableau.com/views/CustomerType_16421206665290/CustomerType?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 [link to gender] (https://public.tableau.com/views/Gender_16421221566950/Gender?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 The majority of rides taken are quite short; 5-10 minutes seems to be the average duration of trip.  
@@ -21,7 +22,9 @@ When examining this trend by gender, we can see that men are far outpacing women
 Looking at trips by weekday per hour, hot spots in bike usage occur in morning (around 8am) and the evening hours (5-7pm).  This coupled with the previous findings indicates that perhaps the largest user segment of CitiBikes is commuters - specifically, males who live within a 5-10 minutes bike ride of their homes/subway stops.  
 
 [link to trips by weekday hour] (https://public.tableau.com/views/TripsbyWeekdayperHour_16421225952520/TripsbyWeekdayperHour?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 [link to trips by gender] (https://public.tableau.com/views/TripsbyGender_16421228532070/TripsbyGenderWeekdayperHour?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 [link to user trips by gender] (https://public.tableau.com/views/tripsbygenderbyweekday/UserTripsbyGenderbyWeekday?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Summary
